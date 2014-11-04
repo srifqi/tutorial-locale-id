@@ -23,7 +23,7 @@ flowing water = air mengalir
 water source = sumber air
 torch = obor
 storage chest = peti penyimpanan
-cobblestone = batu alam
+cobblestone = bongkahan batu
 apple = apel
 furnace = tungku perapian
 
@@ -58,4 +58,4 @@ Fuel: = Bahan bakar:
 Source: = Bahan:
 Flame: = Api:
 Progress: = Proses:
-Output slots: = Hasil kerajinan:
+Output slots: = Hasil:
