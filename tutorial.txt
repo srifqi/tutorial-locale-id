@@ -21,13 +21,14 @@ Pointing (1) = Menunjuk (1)
 Pointing (2) = Menunjuk (2)
 Health and Damage = Kesehatan dan Kerusakan
 Blocks Which Hurt You = Blok yang Melukaimu
-Death and Respawning = Kematian dan Penghidupan Kembali
+Death and Respawning = Kematian dan Bangkit
 Items = Barang
 Tools = Peralatan
 Using the Inventory = Menggunakan Inventaris
 Using blocks = Menggunakan blok
 Comment About Chests = Komentar Tentang Peti
 Building Some Blocks = Membangun Beberapa Blok
+Building at Usable Blocks = Membangun pada Blok yang "dapat dipakai"
 Mining blocks = Blok hasil tambang
 Mining example: Cobblestone = Contoh hasil tambang: Bongkahan batu
 Mining example: Stone = Contoh hasil tambang: Stone (batu)
@@ -65,6 +66,8 @@ You have collected all hidden diamonds! = Kamu telah mengumpulkan semua berlian 
 # Awards
 golden cup = cangkir emas
 diamond cup = cangkir berlian
+This golden cup has been awarded for finishing the tutorial.
+This diamond cup has been awarded for collecting all hidden diamonds.
 
 # Kick message
 You have voluntarily exited the tutorial. = Kamu dengan sukarela keluar dari tutorial.
@@ -209,6 +212,8 @@ You can't reach this upper block by walking. But luckily, you are able to jump.\
 # Tutorial text: build
 Another important task in Minetest is building blocks.\n"Building" here refers to the task of placing one block in your possession onto\nanother block in the world.\nUnlike mining, building a block happens instantanous. To build, select a block in your\nhotbar, point to any block in the world and press the right mouse button.\nYour block will be immediately placed on the pointed side.\nIt is important that the block you want to build to is pointable. This means you cannot build\nnext to or on liquids by normal means.\n\n   Build on ordinary block: [Right mouse button]\n\nTry to get up to that little hole by using the wood blocks in the chest. There is another\ngold ingot waiting for you.
 
+# Tutorial text: build_special
+You may have wondered how you can build on a block which you can use, like a chest.\nFor this, you have to hold the sneak key and then use the build key.\n\n   Build on usable block: [Shift] + [Right mouse button]
 # Tutorial text: controls
 To recap, here is an overview over the most important default controls:\n\n   Move forwards: [W]\n   Move left: [A]\n   Move backwards: [S]\n   Move right: [D]\n   Jump: [Space]\n   Sneak: [Shift]\n   Move upwards (ladder/liquid): [Space]\n   Move downwards (ladder/liquid): [Shift]\n\n   Toggle camera mode: [F7]\n\n   Select item in hotbar: [Mouse wheel]\n   Select item in hotbar: [0] - [9]\n   Inventory menu: [I]\n\n   Collect pointed item: [Left mouse button]\n   Drop item stack: [Q]\n   Drop single item: [Shift] + [Q]\n\n   Punch: [Left mouse button]\n   Mine: [Left mouse button]\n   Build/use: [Right mouse button]\n   Build: [Shift] + [Right mouse button]\n\n   Abort/open pause menu: [Esc]\n\nYou can review a shorter version of the controls in the pause menu.
 
